@@ -3,6 +3,10 @@
 <br />
 
 This project is made for Arduino Uno WiFi is an Arduino Uno with an integrated WiFi module. Now you can use both module together communicating with each other using serial pins without modifying any firmware.
+ 
+<img width="450px" height="350px" src="https://user-images.githubusercontent.com/23693439/118520926-ecec2680-b753-11eb-8ccb-41cf73a27d85.jpg" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+
+
 
 Don't forget to change board options before uploading when switching.
 
@@ -188,7 +192,7 @@ Don't forget to change board options before uploading when switching.
 <br />
 
 ## Note: 
-Download and install Blynk libraries to your Arduino IDE its very important before programming (Search on YouTube you can find easily).
+Download and install ESP & Blynk libraries to your Arduino IDE its very important before programming (Search on YouTube you can find easily).
 
 ## Step 1:
 - Before uploading the sketch you will need to activate the deep switches 5, 6, 7.
