@@ -193,14 +193,24 @@ Download and install Blynk libraries to your Arduino IDE its very important befo
 ## Step 1:
 - Before uploading the sketch you will need to activate the deep switches 5, 6, 7.
 - Open ESP8266_Serial sketch file in Arduino IDE.
+- Enter your WiFi details on line 35, 36.
 - Select Arduino IDE --> Tools --> Board: --> Generic ESP8266 Module.
 - Hit upload, the green led blinks till it gets uploaded.
 
-Now you are all done.
+## Step 2:
+- Before uploading the sketch you will need to activate the deep switches 3, 4.
+- Open Blynk_SoftwareSerialTest sketch file in Arduino IDE.
+- Replace with your Auth Token in the Blynk App on line 34. 
+  You should get Auth Token in the Blynk App.
+  Go to the Project Settings (nut icon).
+- Select Arduino IDE --> Tools --> Board: --> Arduino Uno.
+- Hit upload, the green led blinks till it gets uploaded.
 
 
+
+
+## Step 3:
 After Uploading Sketches on both modules. Connect those pins as shown in the diagram. <br />
-
 
 ESP8266:-------------- >Arduino: <br />
 
@@ -211,7 +221,12 @@ TXD -------------------------- 10 Pin <br />
 
 <img src="https://user-images.githubusercontent.com/23693439/118506781-0dfa4a80-b747-11eb-80cf-364dffe105fc.png" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
+<br />
 
+Now you are all done.  <br />
+Open Blynk App and check it is connected and ready.  <br />
+
+That's it, you are done!!!  <br />
 
 
 
