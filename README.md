@@ -2,7 +2,13 @@
 
 <br />
 
-It is a customized version of the classic ARDUINO UNO R3 board. Full integration of microcontroller Atmel ATmega328p and IC Wi-Fi ESP8266 with 8 MB flash memory, and USB-TTL converter CH340G on one board. All modules can work together using this code.
+This project is made for Arduino Uno WiFi is an Arduino Uno with an integrated WiFi module. Now you can use both module together communicating with each other using serial pins without modifying firmware.
+
+
+
+<img src="https://user-images.githubusercontent.com/23693439/118506781-0dfa4a80-b747-11eb-80cf-364dffe105fc.png" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+
+
 
 
 
