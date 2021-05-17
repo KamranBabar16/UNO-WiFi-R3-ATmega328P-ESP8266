@@ -4,7 +4,7 @@
 
 This project is made for Arduino Uno WiFi is an Arduino Uno with an integrated WiFi module. Now you can use both module together communicating with each other using serial pins without modifying any firmware.
  
-<img width="450px" height="350px" src="https://user-images.githubusercontent.com/23693439/118520926-ecec2680-b753-11eb-8ccb-41cf73a27d85.jpg" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+<img width="450px" height="350px" src="https://user-images.githubusercontent.com/23693439/118520926-ecec2680-b753-11eb-8ccb-41cf73a27d85.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
 
 
@@ -223,7 +223,7 @@ RXD -------------------------- 11 Pin <br />
 TXD -------------------------- 10 Pin <br />
 
 
-<img src="https://user-images.githubusercontent.com/23693439/118506781-0dfa4a80-b747-11eb-80cf-364dffe105fc.png" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://user-images.githubusercontent.com/23693439/118506781-0dfa4a80-b747-11eb-80cf-364dffe105fc.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 <br />
 
