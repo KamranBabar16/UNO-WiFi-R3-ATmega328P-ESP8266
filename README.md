@@ -223,8 +223,12 @@ TXD -------------------------- 10 Pin <br />
 
 <br />
 
+## Step 4:
+- To communicate between Arduino and ESP you will need to activate deep switches 1 and 2.
+
+
 Now you are all done.  <br />
-Open Blynk App and check it is connected and ready.  <br />
+Open Blynk App and check it is connected and ready use. <br />
 
 That's it, you are done!!!  <br />
 
