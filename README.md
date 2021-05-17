@@ -185,14 +185,30 @@ Don't forget to change board options before uploading when switching.
 </tbody>
 </table>
 
-There are two sketches
-
-<h2> Note: </h2>
 <br />
+
+## Note: 
 Download and install Blynk libraries to your Arduino IDE its very important before programming (Search on YouTube you can find easily).
 
+## Step 1:
+- Before uploading the sketch you will need to activate the deep switches 5, 6, 7.
+- Open ESP8266_Serial sketch file in Arduino IDE.
+- Select Arduino IDE --> Tools --> Board: --> Generic ESP8266 Module.
+- Hit upload, the green led blinks till it gets uploaded.
 
-#After Uploading Sketches on both modules. Connect those pins as shown in the diagram.
+Now you are all done.
+
+
+After Uploading Sketches on both modules. Connect those pins as shown in the diagram. <br />
+
+
+ESP8266:-------------- >Arduino: <br />
+
+RXD -------------------------- 11 Pin <br />
+
+TXD -------------------------- 10 Pin <br />
+
+
 <img src="https://user-images.githubusercontent.com/23693439/118506781-0dfa4a80-b747-11eb-80cf-364dffe105fc.png" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 
