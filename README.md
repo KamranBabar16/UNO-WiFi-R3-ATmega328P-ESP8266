@@ -2,9 +2,11 @@
 
 <br />
 
-This project is made for Arduino Uno WiFi is an Arduino Uno with an integrated WiFi module. Now you can use both module together communicating with each other using serial pins without modifying firmware.
+This project is made for Arduino Uno WiFi is an Arduino Uno with an integrated WiFi module. Now you can use both module together communicating with each other using serial pins without modifying any firmware.
 
-<table border="1" cellspacing="0" cellpadding="0" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+Don't forget to change board options before uploading when switching.
+
+<table border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
 <td>
@@ -182,6 +184,12 @@ This project is made for Arduino Uno WiFi is an Arduino Uno with an integrated W
 </tr>
 </tbody>
 </table>
+
+There are two sketches
+
+<h2> Note: </h2>
+<br />
+Download and install Blynk libraries to your Arduino IDE its very important before programming (Search on YouTube you can find easily).
 
 
 #After Uploading Sketches on both modules. Connect those pins as shown in the diagram.
